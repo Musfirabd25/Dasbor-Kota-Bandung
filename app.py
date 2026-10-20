@@ -94,3 +94,4 @@ def display_label(col: str) -> str:
         "DBH_SDA": "DBH Sumber Daya Alam",
         "DBH_Lainnya": "DBH Lainnya",
         "DAU_Grant": "DAU Grant",
+    }
